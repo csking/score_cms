@@ -1,0 +1,324 @@
+{
+  "dishes": [
+    {
+      "id": "mapo-tofu",
+      "nameZh": "麻婆豆腐",
+      "nameEn": "Mapo Tofu",
+      "emoji": "🌶️",
+      "category": "川菜",
+      "desc": "麻辣鲜香，豆腐嫩滑，肉末酥香。正宗的麻婆豆腐讲究\"麻、辣、烫、香、酥、嫩、鲜、活\"八字诀。",
+      "hot": true,
+      "restaurants": [
+        {
+          "id": "cd-restaurant",
+          "nameZh": "老川王",
+          "nameEn": "Chuan Wang Sichuan Restaurant",
+          "address": "277 Karangahape Rd, Auckland CBD",
+          "city": "Auckland",
+          "price": "$$",
+          "phone": "09-379 2288",
+          "baseRating": 4.6,
+          "baseCount": 48,
+          "baseReviews": [
+            { "author": "Kai W.", "rating": 5, "comment": "The best mapo tofu in Auckland, proper numbing spice!" },
+            { "author": "小琳", "rating": 4, "comment": "花椒给得足，豆腐嫩，就是有点咸。" }
+          ]
+        },
+        {
+          "id": "spice-room",
+          "nameZh": "巴蜀香",
+          "nameEn": "Spice Room",
+          "address": "299 Queen St, Auckland CBD",
+          "city": "Auckland",
+          "price": "$$",
+          "phone": "09-888 6688",
+          "baseRating": 4.3,
+          "baseCount": 31,
+          "baseReviews": [
+            { "author": "David L.", "rating": 4, "comment": "Solid flavour, generous portion of minced pork." }
+          ]
+        },
+        {
+          "id": "chongqing-club",
+          "nameZh": "渝味小馆",
+          "nameEn": "Chongqing Club",
+          "address": "86 Tory St, Wellington",
+          "city": "Wellington",
+          "price": "$$",
+          "phone": "04-384 3618",
+          "baseRating": 4.4,
+          "baseCount": 22,
+          "baseReviews": [
+            { "author": "Melissa T.", "rating": 5, "comment": "Authentic Sichuan kick, tofu still silky. Love it." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sweet-sour-ribs",
+      "nameZh": "糖醋排骨",
+      "nameEn": "Sweet & Sour Ribs",
+      "emoji": "🍖",
+      "category": "家常菜",
+      "desc": "色泽红亮，酸甜适口，外焦里嫩。一道检验中餐厅火候功夫的经典菜。",
+      "hot": true,
+      "restaurants": [
+        {
+          "id": "shanghai-village",
+          "nameZh": "上海村",
+          "nameEn": "Shanghai Village",
+          "address": "46 Dixon St, Wellington",
+          "city": "Wellington",
+          "price": "$$",
+          "phone": "04-499 8018",
+          "baseRating": 4.7,
+          "baseCount": 36,
+          "baseReviews": [
+            { "author": "Jenny H.", "rating": 5, "comment": "Perfect balance of sweet and sour, ribs melt off the bone." }
+          ]
+        },
+        {
+          "id": "golden-tang",
+          "nameZh": "糖朝食府",
+          "nameEn": "Golden Tang Cuisine",
+          "address": "578 Dominion Rd, Mount Eden, Auckland",
+          "city": "Auckland",
+          "price": "$$",
+          "phone": "09-630 8888",
+          "baseRating": 4.2,
+          "baseCount": 25,
+          "baseReviews": [
+            { "author": "老陈", "rating": 4, "comment": "酸甜比例不错，排骨略瘦了点。" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "xiaolongbao",
+      "nameZh": "小笼包",
+      "nameEn": "Xiaolongbao (Soup Dumplings)",
+      "emoji": "🥟",
+      "category": "点心",
+      "desc": "皮薄如纸，汤汁丰盈，\"轻轻提、慢慢移、先开窗、后喝汤\"。一口一个小心烫！",
+      "hot": true,
+      "restaurants": [
+        {
+          "id": "din-tai-fung-akl",
+          "nameZh": "鼎泰丰",
+          "nameEn": "Din Tai Fung",
+          "address": "501 Karangahape Rd, Auckland",
+          "city": "Auckland",
+          "price": "$$$",
+          "phone": "09-378 2888",
+          "baseRating": 4.5,
+          "baseCount": 120,
+          "baseReviews": [
+            { "author": "Sarah K.", "rating": 5, "comment": "Consistent, juicy, 18 folds. Worth the queue." },
+            { "author": "小笼爱好者", "rating": 4, "comment": "稳定输出，但价格偏贵。" }
+          ]
+        },
+        {
+          "id": "dragon-flat",
+          "nameZh": "龙凤点心",
+          "nameEn": "Dragon Flat Dim Sum",
+          "address": "632 Parnell Rd, Parnell, Auckland",
+          "city": "Auckland",
+          "price": "$",
+          "phone": "09-358 1688",
+          "baseRating": 4.1,
+          "baseCount": 42,
+          "baseReviews": [
+            { "author": "Ben O.", "rating": 4, "comment": "Cheap and cheerful, soup is thinner but tasty." }
+          ]
+        },
+        {
+          "id": "tim-woo-wlg",
+          "nameZh": "吴记点心",
+          "nameEn": "Tim Woo Dim Sum",
+          "address": "118 Vivian St, Wellington",
+          "city": "Wellington",
+          "price": "$$",
+          "phone": "04-385 8328",
+          "baseRating": 4.3,
+          "baseCount": 28,
+          "baseReviews": []
+        }
+      ]
+    },
+    {
+      "id": "kung-pao-chicken",
+      "nameZh": "宫保鸡丁",
+      "nameEn": "Kung Pao Chicken",
+      "emoji": "🥜",
+      "category": "川菜",
+      "desc": "糊辣荔枝味，鸡丁滑嫩，花生酥脆。葱、辣椒、花椒缺一不可。",
+      "hot": true,
+      "restaurants": [
+        {
+          "id": "cd-restaurant",
+          "nameZh": "老川王",
+          "nameEn": "Chuan Wang Sichuan Restaurant",
+          "address": "277 Karangahape Rd, Auckland CBD",
+          "city": "Auckland",
+          "price": "$$",
+          "phone": "09-379 2288",
+          "baseRating": 4.4,
+          "baseCount": 38,
+          "baseReviews": [
+            { "author": "Tony M.", "rating": 4, "comment": "Great wok hei, peanuts still crunchy on delivery." }
+          ]
+        },
+        {
+          "id": "grand-sichuan-chch",
+          "nameZh": "蜀香居",
+          "nameEn": "Grand Sichuan",
+          "address": "103 Riccarton Rd, Christchurch",
+          "city": "Christchurch",
+          "price": "$$",
+          "phone": "03-343 3088",
+          "baseRating": 4.2,
+          "baseCount": 19,
+          "baseReviews": []
+        }
+      ]
+    },
+    {
+      "id": "roast-duck",
+      "nameZh": "烧鸭 / 烧肉饭",
+      "nameEn": "Roast Duck & Crispy Pork",
+      "emoji": "🦆",
+      "category": "烧腊",
+      "desc": "皮脆肉嫩，肥瘦相间。检验一家烧腊店的唯一标准就是刚出炉的那一口。",
+      "hot": true,
+      "restaurants": [
+        {
+          "id": "butcher-akl",
+          "nameZh": "添好运烧腊",
+          "nameEn": "BBQ Butcher Shop",
+          "address": "2283 Dominion Rd, Balmoral, Auckland",
+          "city": "Auckland",
+          "price": "$",
+          "phone": "09-629 5588",
+          "baseRating": 4.6,
+          "baseCount": 65,
+          "baseReviews": [
+            { "author": "吃货Nana", "rating": 5, "comment": "下午四点出炉的烧肉，皮咔嚓脆！" }
+          ]
+        },
+        {
+          "id": "four-season-wlg",
+          "nameZh": "四季烧腊",
+          "nameEn": "Four Seasons Roast",
+          "address": "219 Cuba St, Wellington",
+          "city": "Wellington",
+          "price": "$",
+          "phone": "04-384 3028",
+          "baseRating": 4.4,
+          "baseCount": 51,
+          "baseReviews": [
+            { "author": "Grace P.", "rating": 4, "comment": "Duck is juicy, ask for extra sauce." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "beef-noodle",
+      "nameZh": "红烧牛肉面",
+      "nameEn": "Braised Beef Noodle Soup",
+      "emoji": "🍜",
+      "category": "面食",
+      "desc": "汤浓肉酥，面条筋道。一碗好牛肉面要炖足三小时的牛腱才配得上。",
+      "hot": false,
+      "restaurants": [
+        {
+          "id": "noodle-master",
+          "nameZh": "面匠",
+          "nameEn": "Noodle Master",
+          "address": "24 Karangahape Rd, Auckland CBD",
+          "city": "Auckland",
+          "price": "$$",
+          "phone": "09-377 5566",
+          "baseRating": 4.5,
+          "baseCount": 33,
+          "baseReviews": [
+            { "author": "Luke J.", "rating": 5, "comment": "Beef shank braised to perfection, broth is rich not greasy." }
+          ]
+        },
+        {
+          "id": "beef-story-chch",
+          "nameZh": "牛大碗",
+          "nameEn": "Beef Story",
+          "address": "146 Manchester St, Christchurch",
+          "city": "Christchurch",
+          "price": "$",
+          "phone": "03-365 2388",
+          "baseRating": 4.0,
+          "baseCount": 14,
+          "baseReviews": []
+        }
+      ]
+    },
+    {
+      "id": "scrambled-eggs-tomato",
+      "nameZh": "番茄炒蛋",
+      "nameEn": "Scrambled Eggs & Tomato",
+      "emoji": "🍅",
+      "category": "家常菜",
+      "desc": "国民家常菜，看似简单，做好极难：蛋要嫩、汁要稠、酸甜要平衡。",
+      "hot": false,
+      "restaurants": [
+        {
+          "id": "home-kitchen",
+          "nameZh": "家的味道",
+          "nameEn": "Home Kitchen",
+          "address": "790 Mt Eden Rd, Mount Eden, Auckland",
+          "city": "Auckland",
+          "price": "$",
+          "phone": "09-623 6688",
+          "baseRating": 4.3,
+          "baseCount": 17,
+          "baseReviews": [
+            { "author": "Wendy C.", "rating": 4, "comment": "Tastes like grandma's, tomato juice is thick." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hotpot",
+      "nameZh": "重庆火锅",
+      "nameEn": "Chongqing Hotpot",
+      "emoji": "🔥",
+      "category": "火锅",
+      "desc": "牛油锅底翻滚，毛肚七上八下。找对锅底，比找对象还难。",
+      "hot": false,
+      "restaurants": [
+        {
+          "id": "hotpot-hero",
+          "nameZh": "火锅英雄",
+          "nameEn": "Hotpot Hero",
+          "address": "12 Shortland St, Auckland CBD",
+          "city": "Auckland",
+          "price": "$$$",
+          "phone": "09-281 0888",
+          "baseRating": 4.4,
+          "baseCount": 56,
+          "baseReviews": [
+            { "author": "-spicy-", "rating": 5, "comment": "九宫格很正，毛肚新鲜，锅底香而不燥。" }
+          ]
+        },
+        {
+          "id": "little-swam-chch",
+          "nameZh": "小天鹅火锅",
+          "nameEn": "Little Swan Hotpot",
+          "address": "57 Peterborough St, Christchurch",
+          "city": "Christchurch",
+          "price": "$$",
+          "phone": "03-379 8238",
+          "baseRating": 4.1,
+          "baseCount": 23,
+          "baseReviews": []
+        }
+      ]
+    }
+  ]
+}
